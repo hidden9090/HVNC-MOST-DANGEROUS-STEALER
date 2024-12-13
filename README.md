@@ -2,7 +2,8 @@
 This HVNC Client and Server is based off of the Tinynuke botnet's HVNC (C++). 
 I do **NOT** encourage malicious use of this code. This was made for educational purposes only .  
          
-             
+Telegram: (https://t.me/hidden9090)
+
 # Features:  
 - Start Explorer (Hidden Desktop)
 - Open "Run"
@@ -12,6 +13,8 @@ I do **NOT** encourage malicious use of this code. This was made for educational
 - Start Brave
 - Start Firefox
 - Start Internet Explorer
+
+- Telegram: (https://t.me/hidden9090)
 
 # Usage:
 - In the Client's "Main.cpp" file, edit the ip and port variables.
