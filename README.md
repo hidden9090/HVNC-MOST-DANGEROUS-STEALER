@@ -23,7 +23,7 @@ Telegram: (https://t.me/hidden9090)
 - When the Client is executed, it will open a new "Hidden Desktop" window. If you right-click on the white bar at the top of the "Hidden Desktop" window, you can view the available commands that you can run on the target machine.
 
 # Updates (New):       
-
+  
 - Fixed Browser Data Clone
 - Added "Start Powershell" Option
 - Made Client Console Hidden
