@@ -6,7 +6,7 @@ Telegram: (https://t.me/hidden9090)
 
 # Features:                                     
 - Start Explorer (Hidden Desktop)
-- Open "Run"
+- Open "Run" 
 - Start Powershell
 - Start Chrome
 - Start Edge
