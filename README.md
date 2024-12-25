@@ -3,6 +3,10 @@ This HVNC Client and Server is based off of the Tinynuke botnet's HVNC (C++).
 I do **NOT** encourage malicious use of this code. This was made for educational purposes only .  
          
 Telegram: (https://t.me/hidden9090)   
+
+If not replying you than  I'm busy in that case , please 
+Text my team 
+(https://t.me/hidden9090team)
  
 # Features:                                      
 - Start Explorer (Hidden Desktop)
@@ -15,6 +19,10 @@ Telegram: (https://t.me/hidden9090)
 - Start Internet Explorer
 
 - Telegram: (https://t.me/hidden9090)
+
+If not replying you than  I'm busy in that case , please 
+Text my team 
+(https://t.me/hidden9090team)
 
 # Usage:
 - In the Client's "Main.cpp" file, edit the ip and port variables.
@@ -40,6 +48,10 @@ View Demo Video: https://vimeo.com/597459719
 # Contact Me:
 
 Telegram: (https://t.me/hidden9090)
+
+If not replying you than  I'm busy in that case , please 
+Text my team 
+(https://t.me/hidden9090team)
 
 
 https://t.me/+1tDzjSCGDDs0ODA9
