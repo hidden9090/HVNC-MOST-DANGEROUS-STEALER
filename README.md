@@ -3,7 +3,7 @@ This HVNC Client and Server is based off of the Tinynuke botnet's HVNC (C++).
 I do **NOT** encourage malicious use of this code. This was made for educational purposes only .  
          
 Telegram: (https://t.me/hidden9090)    
- 
+  
 If not replying you than  I'm busy in that case , please 
 Text my team 
 (https://t.me/hidden9090team) 
